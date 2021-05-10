@@ -1,19 +1,39 @@
 body {
-  background-color: #EAF6F6;
+  background-color: #3d3b36;
 }
 
 h1 {
-  color: #66BFBF;
+  color: #ffa333;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #ffa333;
+}
+
+a {
+  color: orange;
+}
+
+p {
+  color: #ede6da;
+}
+
+li {
+  color: #ede6da;
+}
+
+th {
+  color: #ede6da;
+}
+
+td {
+  color: #ede6da;
 }
 
 hr {
   background-color: none;
   border-style: dotted none none;
-  border-color: grey;
+  border-color: #ede6da;
   border-width: 6px;
   height: 0px;
   width: 10%;
